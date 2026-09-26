@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"   # try: default, air, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: "neon"   # try: default, air, contrast, dark, dirt, neon, mint, plum, sunrise
 
 title: "Shana Siddik"
 description: "Welcome to my personal page!"
