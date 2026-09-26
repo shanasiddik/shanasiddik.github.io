@@ -1,6 +1,27 @@
-remote_theme: "mmistakes/so-simple-theme"
-plugins:
-  - jekyll-remote-theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"   # try: default, air, contrast, dark, dirt, neon, mint, plum, sunrise
 
-title: Shana Siddik
-description: Welcome to my personal page!
+title: "Shana Siddik"
+description: "Welcome to my personal page!"
+
+plugins:
+  - jekyll-include-cache
+
+# Powers the author sidebar (photo, bio, social links) shown on content pages
+author:
+  name: "Shana Siddik"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Biomedical Informatics MA student @ Columbia University"
+  location: "New York, NY"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:shanasiddik@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shanasiddik"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/shanasiddik"
+
+# Top nav bar links
