@@ -1,20 +1,21 @@
 ---
-layout: default
-title: Your Name
+layout: single
+title: "Shana Siddik"
+author_profile: true
 ---
 
-## About me
+## About me {#about}
 I'm a Biomedical Informatics MA student in Columbia University Irving Medical Center who is interested in
 leveraging computational and statistical methods to analyze complex clinical and biomedical data, 
 with a focus on understanding disease and developing informatics approaches that can improve patient care 
 and clinical decision-making.
 
-## Education
+## Education {#education}
 - Biomedical Informatics M.A. in Columbia University
 - Molecular and Cell Biology B.A. in University of California, Berkeley
 - Data Science B.A. in University of California, Berkeley
 
-## Research Experience
+## Research Experience {#research}
 
 - Bioinformatics Intern @ *Joint Genome Institute, Lawrence Berkeley National Laboratory*
 
@@ -38,6 +39,6 @@ and clinical decision-making.
   Constructed and analyzed phylogenetic trees to study the evolution of the Hox3 gene across leech species.
   Identified gene orthologs using comparative genomics and sequence analysis tools.
 
-## Contact
+## Contact {#contact}
 
-Reach me at [shanasiddik@gmail.com](mailto:shanasiddik@gmail.com) or on [LinkedIn](www.linkedin.com/in/shana-siddik-7aa611263).
+Reach me at [shanasiddik@gmail.com](mailto:shanasiddik@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/shana-siddik-7aa611263).
