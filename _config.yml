@@ -7,7 +7,7 @@ description: "Welcome to my personal page!"
 plugins:
   - jekyll-include-cache
 
-# Powers the author sidebar (photo, bio, social links) shown on content pages
+# Powers the photo/bio/social sidebar shown on your page
 author:
   name: "Shana Siddik"
   avatar: "/assets/images/profile.jpg"
@@ -17,11 +17,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:shanasiddik@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/shanasiddik"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/shanasiddik"
-
-# Top nav bar links
+      url: "https://www.linkedin.com/in/shana-siddik-7aa611263"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yourusername"
