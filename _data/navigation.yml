@@ -5,5 +5,7 @@ main:
     url: /#education
   - title: "Research"
     url: /#research
+  - title: "Projects"
+    url: /#project
   - title: "Contact"
     url: /#contact
