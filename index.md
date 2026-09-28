@@ -7,8 +7,7 @@ author_profile: true
 ## About me {#about}
 I'm a Biomedical Informatics MA student in Columbia University Irving Medical Center who is interested in
 leveraging computational and statistical methods to analyze complex clinical and biomedical data, 
-with a focus on understanding disease and developing informatics approaches that can improve patient care 
-and clinical decision-making.
+with a focus on imporving patient care and clinical decision-making.
 
 ## Education {#education}
 - Biomedical Informatics M.A. in Columbia University
