@@ -39,6 +39,14 @@ and clinical decision-making.
   Constructed and analyzed phylogenetic trees to study the evolution of the Hox3 gene across leech species.
   Identified gene orthologs using comparative genomics and sequence analysis tools.
 
+## Projects (on Github) {#project}
+- Pharmacogenomic Analysis of Warfarin Sensitivity for Precision Medicine – A machine learning pipeline that 
+  predicts warfarin dose-sensitivity category from pharmacogenomic variant data, combining bioinformatics (VCF 
+  processing, genotype encoding) with ML classification (Logistic Regression, Random Forest).
+- NeLLi AI Scientist – Implemented a Model Context Protocol (MCP) server for the search and retrieval of 
+  scientific literature; deployed AI "scientist agent" systems to streamline hypothesis generation and accelerate 
+  literature reviews 
+
 ## Contact {#contact}
 
 Reach me at [shanasiddik@gmail.com](mailto:shanasiddik@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/shana-siddik-7aa611263).
