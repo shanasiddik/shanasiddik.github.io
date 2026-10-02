@@ -7,16 +7,18 @@ author_profile: true
 ## About me {#about}
 I'm a Biomedical Informatics MA student in Columbia University Irving Medical Center who is interested in
 leveraging computational and statistical methods to analyze complex clinical and biomedical data, 
-with a focus on imporving patient care and clinical decision-making.
+with a focus on improving patient care and clinical decision-making.
 
 ## Education {#education}
-- Biomedical Informatics M.A. in Columbia University
-- Molecular and Cell Biology B.A. in University of California, Berkeley
-- Data Science B.A. in University of California, Berkeley
+- Biomedical Informatics M.A. in Columbia University (Sept 2026-present)
+- Molecular and Cell Biology B.A. in University of California, Berkeley (Aug 2024-May 2026)
+- Data Science B.A. in University of California, Berkeley (Aug 2024-May 2026)
 
 ## Research Experience {#research}
 
 - Bioinformatics Intern @ *Joint Genome Institute, Lawrence Berkeley National Laboratory*
+
+  Oct 2024 - May 2026
 
   Worked in DOE Joint Genome Institute in the New Lineages of Life department.
   Developed and optimized scalable bioinformatics pipelines for large-scale single-cell and metagenomic datasets,
@@ -29,11 +31,15 @@ with a focus on imporving patient care and clinical decision-making.
   using modern pipeline frameworks.
 - Undergraduate Research Assistant @ *Medina Lab, UCSF*
 
+  Sept 2025 - May 2026
+
   Joined through UC Berkeley's Undergraduate Research Apprentice Program (URAP).
   Conducted multi-omics data analysis to identify differentially expressed genes and pathways across menopause states.
   Applied statistical modeling and R packages to analyze large-scale GTEx transcriptomic datasets.
   Produced visualizations and summaries to support biological interpretation.
 - Undergraduate Research Assistant @ *Weisblat Lab, UC Berkeley*
+
+  March 2025 - July 2025
 
   Constructed and analyzed phylogenetic trees to study the evolution of the Hox3 gene across leech species.
   Identified gene orthologs using comparative genomics and sequence analysis tools.
